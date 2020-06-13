@@ -1,0 +1,34 @@
+.site-name {
+    text-align: center;
+    color: #E47C7E;
+    background-color: gray
+    
+}
+.class {
+    padding: 15px;
+    background-color:#88839E ;
+   
+}
+.footer{
+    text-align: center;
+    color: #E47C7E;
+    padding: 15px;
+    background-color: gray;
+}
+
+.container {
+    width: 660px;
+    margin: 0 auto;
+}
+body{
+    background-color:#3B3F45  ;
+}
+.class:nth-child(2n-1){
+    background-color: #625E77
+}
+.class:hover {
+    border:  2px solid white;
+}
+input:checked + h2 {
+    background-color: blue;
+}
