@@ -5,7 +5,8 @@
     
 }
 .class {
-    padding: 15px;
+    margin: 0;
+    padding: 0;
     background-color:#88839E ;
    
 }
@@ -30,5 +31,7 @@ body{
     border:  2px solid white;
 }
 input:checked + h2 {
-    background-color: blue;
+    background-color: blueviolet;
+}.barre{
+    text-decoration: line-through;
 }
